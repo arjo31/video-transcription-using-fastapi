@@ -1,0 +1,10 @@
+streamlit
+flask
+fastapi
+uvicorn
+langchain
+langchain_community
+langchain_core
+psycopg2
+openai-whisper
+moviepy
