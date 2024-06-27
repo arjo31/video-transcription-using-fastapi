@@ -23,7 +23,7 @@ cd server
 python backend_app.py
 ```
 
-The app should run now...
+The app should locally on your machine at this address : http://localhost:8501
 
 ## Further Modifications :
 
